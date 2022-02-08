@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fekinkel.github.io/csb-wvbyr/static/css/main.50a3e62e.chunk.css",
+    "main.js": "https://fekinkel.github.io/csb-wvbyr/static/js/main.e9812449.chunk.js",
+    "main.js.map": "https://fekinkel.github.io/csb-wvbyr/static/js/main.e9812449.chunk.js.map",
+    "runtime-main.js": "https://fekinkel.github.io/csb-wvbyr/static/js/runtime-main.7d489cc7.js",
+    "runtime-main.js.map": "https://fekinkel.github.io/csb-wvbyr/static/js/runtime-main.7d489cc7.js.map",
+    "static/js/2.61c6a219.chunk.js": "https://fekinkel.github.io/csb-wvbyr/static/js/2.61c6a219.chunk.js",
+    "static/js/2.61c6a219.chunk.js.map": "https://fekinkel.github.io/csb-wvbyr/static/js/2.61c6a219.chunk.js.map",
+    "index.html": "https://fekinkel.github.io/csb-wvbyr/index.html",
+    "static/css/main.50a3e62e.chunk.css.map": "https://fekinkel.github.io/csb-wvbyr/static/css/main.50a3e62e.chunk.css.map",
+    "static/js/2.61c6a219.chunk.js.LICENSE.txt": "https://fekinkel.github.io/csb-wvbyr/static/js/2.61c6a219.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d489cc7.js",
+    "static/js/2.61c6a219.chunk.js",
+    "static/css/main.50a3e62e.chunk.css",
+    "static/js/main.e9812449.chunk.js"
+  ]
+}
